@@ -1,0 +1,29 @@
+_repo: The-Spirit-Proper-to-the-Times--13-A-Sermon-preached-in-King-s-Chapel-Boston-Sunday-May-12-18__25894
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walker, James
+    birthdate: 1794
+    deathdate: 1874
+    gutenberg_agent_id: '31649'
+    url: http://www.gutenberg.org/2009/agents/31649
+    wikipedia: http://en.wikipedia.org/wiki/James_Walker_%28Harvard%29
+description: ''
+gutenberg_issued: '2008-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Unitarian Universalist churches -- Sermons'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Sermons'
+title: "The Spirit Proper to the Times\r\nA Sermon preached in King's Chapel, Boston,\
+  \ Sunday, May 12, 1861"
+url: http://www.gutenberg.org/ebooks/25894
