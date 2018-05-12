@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31649
     wikipedia: http://en.wikipedia.org/wiki/James_Walker_%28Harvard%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25894#The-Spirit-Proper-to-the-Times--13-A-Sermon-preached-in-King-s-Chapel-Boston-Sunday-May-12-18_
 gutenberg_issued: '2008-06-24'
 gutenberg_type: Text
 identifiers:
